@@ -1,0 +1,7 @@
+{
+  "name": "diabipal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
